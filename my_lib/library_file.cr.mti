@@ -1,0 +1,92 @@
+C:/Users/siddi/vlsi/alu/my_lib/not_arch.vhd {1 {vcom -work my_lib -2002 -explicit -stats=none C:/Users/siddi/vlsi/alu/my_lib/not_arch.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling architecture not_arch of not_gate
+-- Loading entity not_gate
+
+} {} {}} C:/Users/siddi/vlsi/alu/my_lib/not_gate_ent.vhd {1 {vcom -work my_lib -2002 -explicit -stats=none C:/Users/siddi/vlsi/alu/my_lib/not_gate_ent.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not_gate
+
+} {} {}} C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd {0 {vcom -work my_lib -2002 -explicit -stats=none C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling architecture fulladder_arch of fulladder
+-- Loading entity fulladder
+** Error (suppressible): C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(5): (vcom-1141) Identifier "HAND" does not identify a component declaration.
+
+** Error: C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(5): (vcom-1105) Name (indexed name) does not denote an entity name.
+
+** Error: C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(5): Bad name "gates" in entity aspect. Use expanded name.
+** Error (suppressible): C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(6): (vcom-1141) Identifier "HOR" does not identify a component declaration.
+
+** Error: C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(6): (vcom-1105) Name (indexed name) does not denote an entity name.
+
+** Error: C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(6): Bad name "gates" in entity aspect. Use expanded name.
+** Error (suppressible): C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(7): (vcom-1141) Identifier "HNAND" does not identify a component declaration.
+
+** Error: C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(7): (vcom-1105) Name (indexed name) does not denote an entity name.
+
+** Error: C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(7): Bad name "gates" in entity aspect. Use expanded name.
+** Error (suppressible): C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(8): (vcom-1141) Identifier "HNOR" does not identify a component declaration.
+
+** Error: C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(8): (vcom-1105) Name (indexed name) does not denote an entity name.
+
+** Error: C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(8): Bad name "gates" in entity aspect. Use expanded name.
+** Error (suppressible): C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(9): (vcom-1141) Identifier "HXOR" does not identify a component declaration.
+
+** Error: C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(9): (vcom-1105) Name (indexed name) does not denote an entity name.
+
+** Error: C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(9): Bad name "gates" in entity aspect. Use expanded name.
+** Error (suppressible): C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(10): (vcom-1141) Identifier "HXOR" does not identify a component declaration.
+
+** Error: C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(10): (vcom-1105) Name (indexed name) does not denote an entity name.
+
+** Error: C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(10): Bad name "gates" in entity aspect. Use expanded name.
+** Error (suppressible): C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(11): (vcom-1141) Identifier "HNOT" does not identify a component declaration.
+
+** Error: C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(11): (vcom-1105) Name (indexed name) does not denote an entity name.
+
+** Error: C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(11): Bad name "gates" in entity aspect. Use expanded name.
+** Error: C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_arch.vhd(14): VHDL Compiler exiting
+
+} {10.0 11.0 12.0 13.0 15.0 16.0 17.0 18.0 20.0 21.0 22.0 23.0 25.0 26.0 27.0 28.0 30.0 31.0 32.0 33.0 35.0 36.0 37.0 38.0 40.0 41.0 42.0 44.0} {}} C:/Users/siddi/vlsi/alu/my_lib/gates_entities.vhd {1 {vcom -work my_lib -2002 -explicit -stats=none C:/Users/siddi/vlsi/alu/my_lib/gates_entities.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity two_input_gates
+
+} {} {}} C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_ent.vhd {1 {vcom -work my_lib -2002 -explicit -stats=none C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_ent.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fulladder
+
+} {} {}} C:/Users/siddi/vlsi/alu/my_lib/gates_arch.vhd {1 {vcom -work my_lib -2002 -explicit -stats=none C:/Users/siddi/vlsi/alu/my_lib/gates_arch.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling architecture and_arch of two_input_gates
+-- Loading entity two_input_gates
+-- Compiling architecture or_arch of two_input_gates
+-- Loading entity two_input_gates
+-- Compiling architecture nand_arch of two_input_gates
+-- Loading entity two_input_gates
+-- Compiling architecture nor_arch of two_input_gates
+-- Loading entity two_input_gates
+-- Compiling architecture xor_arch of two_input_gates
+-- Loading entity two_input_gates
+-- Compiling architecture xnor_arch of two_input_gates
+-- Loading entity two_input_gates
+
+} {} {}}

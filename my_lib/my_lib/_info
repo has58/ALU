@@ -1,0 +1,240 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/siddi/vlsi/example/project using library
+Efulladder
+w1555520900
+Z0 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z1 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z2 dC:/Users/siddi/vlsi/alu/my_lib
+8C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_ent.vhd
+FC:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_ent.vhd
+l0
+L4
+V>Nb6KVZFL`[782j8TcR5m3
+!s100 2]S<0LEhDe3[Wz9zmMOP?2
+Z3 OP;C;10.4a;61
+32
+Z4 !s110 1555523589
+!i10b 1
+Z5 !s108 1555523588.000000
+!s90 -reportprogress|300|-work|my_lib|-2002|-explicit|-stats=none|C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_ent.vhd|
+!s107 C:/Users/siddi/vlsi/alu/my_lib/unit_fulladder_ent.vhd|
+!i113 1
+Z6 o-work my_lib -2002 -explicit -O0
+Z7 tExplicit 1
+Pgates
+R0
+R1
+w1555523294
+R2
+8C:/Users/siddi/vlsi/alu/my_lib/gate_package.vhd
+FC:/Users/siddi/vlsi/alu/my_lib/gate_package.vhd
+l0
+L3
+VE99giUHDCg8_F4^D@?0Bg3
+!s100 23?P4djO;Gn9W;Ji`B<NT1
+R3
+32
+Z8 !s110 1555523588
+!i10b 1
+R5
+!s90 -reportprogress|300|-work|my_lib|-2002|-explicit|-stats=none|C:/Users/siddi/vlsi/alu/my_lib/gate_package.vhd|
+!s107 C:/Users/siddi/vlsi/alu/my_lib/gate_package.vhd|
+!i113 1
+R6
+R7
+Enot_gate
+Z9 w1555523164
+R0
+R1
+R2
+8C:/Users/siddi/vlsi/alu/my_lib/not_gate_ent.vhd
+FC:/Users/siddi/vlsi/alu/my_lib/not_gate_ent.vhd
+l0
+L3
+VcnV9=zVgjaP_@FIESS6e?2
+!s100 BB8bmI_6EVD0dAiLCdmPo3
+R3
+32
+R4
+!i10b 1
+Z10 !s108 1555523589.000000
+!s90 -reportprogress|300|-work|my_lib|-2002|-explicit|-stats=none|C:/Users/siddi/vlsi/alu/my_lib/not_gate_ent.vhd|
+!s107 C:/Users/siddi/vlsi/alu/my_lib/not_gate_ent.vhd|
+!i113 1
+R6
+R7
+Anot_arch
+Z11 DEx4 work 8 not_gate 0 22 cnV9=zVgjaP_@FIESS6e?2
+R0
+R1
+Z12 8C:/Users/siddi/vlsi/alu/my_lib/not_arch.vhd
+Z13 FC:/Users/siddi/vlsi/alu/my_lib/not_arch.vhd
+l4
+L3
+Z14 V2MRWO=JOThS=8U6@nc9JM1
+Z15 !s100 fiNF^CF4<z=cneVho9U^63
+R3
+32
+R4
+!i10b 1
+R10
+Z16 !s90 -reportprogress|300|-work|my_lib|-2002|-explicit|-stats=none|C:/Users/siddi/vlsi/alu/my_lib/not_arch.vhd|
+!s107 C:/Users/siddi/vlsi/alu/my_lib/not_arch.vhd|
+!i113 1
+R6
+R7
+Etwo_input_gates
+w1555522845
+R0
+R1
+R2
+8C:/Users/siddi/vlsi/alu/my_lib/gates_entities.vhd
+FC:/Users/siddi/vlsi/alu/my_lib/gates_entities.vhd
+l0
+L4
+VTn5KVCDX9FX;=5=XCmK[`0
+!s100 P=47dYNGH;D@6F]^?jI=@1
+R3
+32
+R8
+!i10b 1
+R5
+!s90 -reportprogress|300|-work|my_lib|-2002|-explicit|-stats=none|C:/Users/siddi/vlsi/alu/my_lib/gates_entities.vhd|
+!s107 C:/Users/siddi/vlsi/alu/my_lib/gates_entities.vhd|
+!i113 1
+R6
+R7
+Axnor_arch
+Z17 w1555522900
+R0
+R1
+Z18 DEx4 work 15 two_input_gates 0 22 Tn5KVCDX9FX;=5=XCmK[`0
+Z19 8C:/Users/siddi/vlsi/alu/my_lib/gates_arch.vhd
+Z20 FC:/Users/siddi/vlsi/alu/my_lib/gates_arch.vhd
+l25
+L24
+VWGagz452NDF^m@L[jd`O<1
+!s100 K>Nc`bgT@5NVJQMnGK;O11
+R3
+32
+R8
+!i10b 1
+R5
+Z21 !s90 -reportprogress|300|-work|my_lib|-2002|-explicit|-stats=none|C:/Users/siddi/vlsi/alu/my_lib/gates_arch.vhd|
+Z22 !s107 C:/Users/siddi/vlsi/alu/my_lib/gates_arch.vhd|
+!i113 1
+R6
+R7
+Axor_arch
+R17
+R0
+R1
+R18
+R19
+R20
+l21
+L20
+VJDEZkmi47NCOg2@TQhfD12
+!s100 @@Y2=0hoWIWBVF81ZLPM:3
+R3
+32
+R8
+!i10b 1
+R5
+R21
+R22
+!i113 1
+R6
+R7
+Anor_arch
+R17
+R0
+R1
+R18
+R19
+R20
+l17
+L16
+VR7:?dD2B8LXJVFEnBDEUa1
+!s100 Uk<Wk5j_7W^`TeYVXhJ3d3
+R3
+32
+R8
+!i10b 1
+R5
+R21
+R22
+!i113 1
+R6
+R7
+Anand_arch
+R17
+R0
+R1
+R18
+R19
+R20
+l13
+L12
+Vd6Wi8NBF^`jX]93i:RTHD1
+!s100 X_]fkFQLMHPU`nOL:`J<j2
+R3
+32
+R8
+!i10b 1
+R5
+R21
+R22
+!i113 1
+R6
+R7
+Aor_arch
+R17
+R0
+R1
+R18
+R19
+R20
+l9
+L8
+V[jN<QY4cdae9eDM9DSD@f2
+!s100 0mQ2<e?l2XBA==cig;LVd1
+R3
+32
+R8
+!i10b 1
+R5
+R21
+R22
+!i113 1
+R6
+R7
+Aand_arch
+R17
+R18
+R0
+R1
+R19
+R20
+l5
+L4
+V139IW;Mfl3_Q=?[7e[>HK3
+!s100 J<6Rcef;:aRM?U^;[_O:63
+R3
+32
+R8
+!i10b 1
+R5
+R21
+R22
+!i113 1
+R6
+R7
